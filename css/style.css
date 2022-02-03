@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css?family=Dongle:400,700&display=swap");
+@import "fonts.css";
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap");
+@import "null.css";
+
+
+body{
+	font-family: "CircularStd", sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+}
+.menu-list li{
+	color: rgb(65, 1, 185);
+	text-decoration: underline;
+	text-transform: uppercase;
+	text-align: left;
+}
+.article-h1{
+	font-size: 30px;
+	font-weight: 900;
+	color: chocolate;
+	text-align: center;
+	text-shadow:  -3px -3px 1px rgba(37, 37, 37, 0.89);
+}
+h2{
+	color: cadetblue;
+	font-size: 26px;
+	font-weight: 700;
+	text-transform: capitalize;
+	text-align: center;
+	text-shadow:  2px 2px 1px rgba(4, 1, 168, 0.89);
+}
+span{
+	font-style: italic;
+}
+.main-block1 p{
+	color: rgb(227, 0, 235);
+}
+.main-block1 a{
+	color: rgb(168, 0, 173);
+	text-decoration: underline;
+}
+.main-block2 p{
+	color: rgb(0, 238, 255);
+	text-align: right;
+}
+.main-block3 p{
+	color: rgb(123, 255, 0);
+	text-decoration: overline;
+}
+#section3{
+	font-family: 'Dongle', sans-serif;
+}
+.main-block4 p{
+	color: rgb(255, 61, 168);
+	text-decoration: line-through;
+}
+.main-block5 p{
+	color: rgb(174, 0, 255);
+	letter-spacing: 3px;
+}
+.main-block6 p{
+	color: green;
+	word-spacing: 10px;
+}
+.main-block6{
+	font-family: 'Dongle', sans-serif;
+	text-align: justify;
+	text-transform: lowercase;
+	white-space: normal;
+}
+.main-block7 p{
+	color: rgb(117, 117, 117);
+	text-decoration: overline;
+}
+.main-block7 {
+	font-size: 10px;
+}
+.main-block8 p{
+	color: rgb(250, 247, 69);
+	text-align: center;
+}
+p.text-red {
+	color: red;
+	font-size: 18px;
+	text-indent: 20px;
+	font-weight: 500;
+	text-shadow: 1px 1px 1px rgb(34, 83, 85);
+}
+.footer-link{
+	font-weight: 700;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-align: center;
+	color: rgb(64, 77, 255);
+	text-decoration: underline;
+}
+#maket{
+	font-size: 30px;
+	color: blue;
+	text-transform: uppercase;
+	text-decoration: underline;
+	text-align: center;
+}
+/* ======================================================= */
+
+.maket-main{
+	font-family: "Lato", sans-serif;
+	font-size: 16px;
+	line-height: 160%;
+}
+.maket-h1{
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	align-items: center;
+	color: #1E212C;
+}
+.text-bold{
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1E212C;
+}
+.text{
+	line-height: 160%;
+	color: #424551;
+}
